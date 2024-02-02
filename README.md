@@ -1,8 +1,6 @@
-# ideal-winner
+# Build settings
 
-Java library template
-
-To get a Git project into your build:
+Java build settings.
 
 Add the JitPack repository to your build file
 
@@ -20,7 +18,7 @@ Add the dependency
 ```xml
 <dependency>
     <groupId>com.github.enr</groupId>
-    <artifactId>ideal-winner</artifactId>
-    <version>0.0.1</version>
+    <artifactId>build-settings</artifactId>
+    <version>1.0.0</version>
 </dependency>
 ```
